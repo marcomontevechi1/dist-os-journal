@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Why?"
+date:   2025-02-17
+categories: discussion
+---
+
+<s>For the glory of satan, of course</s>
+
+Practice is a good teacher.
+
+Once I started learning about supercomputers and clusters, I got curious about the idea of distributed operational systems and similar stuff: what is the best way of putting together all these silicon-based resources so that we can leverage everything they have to offer?
+
+At the end of the day, it seems that a distributed operational system is NOT the best answer to this question, at least not in the way I understand what a distributed operational system is today. Most modern distributed applications that I am aware of run in virtualized networks, containers or machines that offer a distributed/microsservices environment but which - instead of trying to make the physical separation of the nodes transparent for the programmer and user - granularize the resources even more and require the user to understand and work with this separation. I think this tendency will stay.
+
+Nevertheless, I have free time and I am curious. So - obviously - instead of learning kubernetes or some more modern, well-tested and widely used idea, why not spend my mortal waking hours acquiring obscure and useless knowledge about some weird operational system that is used by a total of four people in the world?
+
+![horrors](/assets/horrrors_and_stuff.jpg)
