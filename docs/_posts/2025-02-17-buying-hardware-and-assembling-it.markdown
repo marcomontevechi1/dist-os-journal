@@ -6,7 +6,7 @@ categories: hardware
 ---
 
 1. [Main components](#main_components)
-2. [Assembly](#assembly)\
+2. [Assembly](#assembling)\
   2.1 [Cabling](#cabling)\
   2.2 [Zipties, cabling, screws...](#fixing)\
 3. [Estimated price](#price)
@@ -29,11 +29,11 @@ I could have started with virtual machines, but nah.
 I already had a monitor, an hdmi cable and a keyboard.
 I could add active refrigeration, but the manufacturer and several users seem to have a consensus that Odroids hold pretty well with just the heat sinks. So for now I am <s>happy</s> content.
 
-## Assembly. <a name="assembly"></a>
+## Assembly. <a name="assembling"></a>
 
 Does it look pretty? No. But am I proud of it? Also, no.
 
-<img src="/assets/grumpy.png" alt="Im-not-proud" width="200"/>
+<img src="{{ site.baseurl }}/assets/grumpy.png" alt="Im-not-proud" width="200"/>
 
 ### Cabling <a name="cabling"></a>
 Unfortunately, the holes in the board are too small to pass the power source connectors, so I couldn't hide them behind the board.
@@ -49,9 +49,9 @@ The actual Odroid boards are fixed both by zipties and two screws each. The hole
 kind of bolting since if you go too deep the screw ends up touching the board PCB trails or connections, so I went as deep as possible
 but without risking scraping the board.
 
-<img src="/assets/bad_space.jpeg" alt="Bad-space" width="400"/>
+<img src="{{ site.baseurl }}/assets/bad_space.jpeg" alt="Bad-space" width="400"/>
 
-![assembly](/assets/cluster.jpeg)
+![assembly]({{ site.baseurl }}/assets/cluster.jpeg)
 
 ## Estimated price <a name="price"></a>
 
