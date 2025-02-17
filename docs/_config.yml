@@ -23,7 +23,7 @@ email: montevechi1618@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A journal about exploring distributed operational systems. Also a way of not losing track of what I am doing.
   If things go right this might turn into a general journal related to homelab stuff.
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  marcomontevechi1
 
