@@ -15,4 +15,4 @@ At the end of the day, it seems that a distributed operational system is NOT the
 
 Nevertheless, I have free time and I am curious. So - obviously - instead of learning kubernetes or some more modern, well-tested and widely used idea, why not spend my mortal waking hours acquiring obscure and useless knowledge about some weird operational system that is used by a total of four people in the world?
 
-![horrors](/assets/horrrors_and_stuff.jpg)
+![horrors]({{ site.baseurl }}/assets/horrrors_and_stuff.jpg)
